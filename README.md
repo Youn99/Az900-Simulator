@@ -1,5 +1,8 @@
 # Demo Az900-Simulator.
 
+![alt text](https://learn.microsoft.com/en-us/certifications/images/fundamentals_hero_wide.svg)
+
+
 Demo Az900-Simulator is a Demo simulator to prepare for the microsoft Az-900 Azure Fundamentals certification exam based on the questions and answers in the repository Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Exam-Questions-Answers, and since there was no way how to practise those questions without seeing the correct answers that were present there and for testing the level of preparation, i thought of creating this simulator through the python programming language, using WebScraping and Regex.
 
 # Instructions.
