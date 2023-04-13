@@ -32,7 +32,7 @@ while num_quiz != 50:
     if user_answer != correct_answer:
         print(f"The correct one is {correct_answer}")
     else:
-        correct_answer_ =+ 1 
+        correct_answer_ += 1 
     num_quiz += 1
 if correct_answer_ >= 40:
     print(f"Congratulation you pass the exam! , score=> {correct_answer_}")
